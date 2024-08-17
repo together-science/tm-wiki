@@ -3,7 +3,7 @@
 "splashHtml":"<h3 style='margin:20px'><img src='/images/sol.webp' style='width:80px; height:80px'>&nbsp;Solution Showdown 2024</h3><h4>sponsored by</h4><img style='height:80px' src='https://static.wixstatic.com/media/65941c_bfde342ffbc7430fa145db1d43aea706~mv2.png/v1/crop/x_148,y_250,w_867,h_613/fill/w_458,h_324,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/wolfram%20alpha%20logo.png'>&nbsp;<img style='height:80px' src='https://static.wixstatic.com/media/65941c_325efa3d37664f668b08cd2337571239~mv2.jpg/v1/crop/x_345,y_0,w_1252,h_1080/fill/w_330,h_278,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/desmos%20logo.jpg'><br><br>",
 "exitHtml":"<div style=\"display:block; text-align:left;\"><h3>Before you go:<h3> </p><ul><li>Practice Algebra and other topics at <a style=\"color: gold\" href=\"https://momentofmath.com\" target=\"_blank\">Moment of Math</a></li><li>Check out <a style=\"color: gold\" href=\"https://together-math.com\" target=\"_blank\">together.math</a></li><li>Follow us on Facebook: <a style=\"color: gold\" href=\"https://www.facebook.com/together.science\" target=\"_blank\">together.science</a></li></ul></div>",
 "individuals":{
-    "1":{"email":"gunnar@together.scienbce", "name":"Gunnar M."},
+    "1":{"email":"gunnar@together.science", "name":"Gunnar M."},
     "2":{"email":"khangphama@gmail.com", "name":"GoldenParrot93"},
     "3":{"email":"houkevin00@gmail.com", "name": "Kevin H."},
     "4":{"email":"min.psu@gmail.com", "name": "Eric L."},
@@ -56,10 +56,7 @@
     "TeamStuart":[13],
     "TeamWenbing":[8],
     "TeamArnav":[7],
-    "TBD1":[9,23,    27],
-    "":[],
-    "":[],
-    "":[],
+    "ThreeIsPrime":[9,23,    27],
     "":[]
     },
 "elimination":[]
